@@ -31,3 +31,7 @@ It goes into every wake: about 300 words, roughly 4% more cost per run on Sonnet
 
 [evals/](evals/README.md) has the results: five coding tasks, each with a trap one of the rules is
 about, run against production's wake prompt with and without these rules.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). The rules' wording is our own; upstream has no licence, so none of its text is copied.
