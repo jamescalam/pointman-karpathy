@@ -31,3 +31,17 @@ uv run python bench/agents/report.py --round b1 --tasks --checks
 Score 0.877 → 0.961; cost per run $0.092 → $0.096. Three runs each is small, three of the tasks were
 too easy for both, and the tasks were written knowing the rules. Round 2 adds harder tasks and a
 shorter version of the rules.
+
+## Round b2 (2026-10-05, Sonnet, 5 runs each)
+
+Eight harder tasks were written for round 2 (in `coding.py`). Sonnet without the rules passed them in
+smoke runs, so b2 reran the two tasks that differed in b1, with 0.1.0's text (~300 words) and a
+108-word version, which is 0.2.0:
+
+| | Without | 0.1.0 | 0.2.0 |
+|---|---|---|---|
+| Held off a request that breaks the data | 0/5 | 3/5 | 5/5 |
+| Test results in the report | 0/5 | 5/5 | 5/5 |
+| Added tests for the untested cases | 0/5 | 4/5 | 5/5 |
+| Score | 0.734 | 0.933 | 1.000 |
+| Cost per run | $0.090 | $0.093 | $0.086 |

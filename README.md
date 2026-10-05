@@ -25,7 +25,8 @@ A behaviour has no process: [extension.toml](extension.toml) has a `[behavior]` 
 each run, and the agent's node adds the `SKILL.md` body to the wake prompt, if it has the behaviour
 installed and allowed. Install it on a machine from a clone with `mb ext add <folder>`.
 
-It goes into every wake: about 300 words, roughly 4% more cost per run on Sonnet.
+It goes into every wake, so it's short: about 130 words. In round b2 a run with it cost 4% less
+than one without, because holding off saves turns (0.1.0's ~300 words cost about 4% more).
 
 ## Does it help
 
