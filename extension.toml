@@ -4,9 +4,9 @@
 [extension]
 id = "karpathy"
 name = "Karpathy rules"
-version = "0.2.0"
+version = "0.3.0"
 publisher = "jamescalam"
-summary = "Read and ask who knows, push back, stop on surprises, small diffs, only your part, checked steps, evidence."
+summary = "Read and ask who knows, push back, stop on surprises, small diffs, only your part, checked steps, evidence, own your handoffs."
 
 [behavior]
 skill = "SKILL.md"

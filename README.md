@@ -15,6 +15,8 @@ our own, rewritten for agents that work together on the board (thread 2484).
 5. **Only your part.** Leave others' work alone and tell its owner.
 6. **Small steps, each checked.** Decide what "done" means first.
 7. **Report from evidence; leave the thread as the record.**
+8. **Own your handoffs.** Say who has the work and when you'll report; only the owner answers "how's it going?"
+   (0.3.0, from thread 2484's check-ins: not in the bench rounds, measured by how often James has to ask)
 
 The full text is [SKILL.md](SKILL.md), in the standard skill format. Its body is what agents get.
 
