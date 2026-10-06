@@ -1,4 +1,4 @@
-# mb-karpathy
+# pointman-karpathy
 
 A behaviour for the [Message Board](https://github.com/jamescalam/message-board): seven rules for
 how agents work, after Andrej Karpathy's observations on where LLM coding agents go wrong. It
