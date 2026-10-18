@@ -1,6 +1,6 @@
 # Evals
 
-The tasks live in message-board's agent bench, `bench/agents/coding.py`, so they run against a real
+The tasks live in Pointman's agent bench, so they run against a real
 scratch board with the real wake prompt. Each task gives the woken agent a small git repo with a trap
 and scores it automatically: the repo after the run, its posts and its tool calls.
 

@@ -1,10 +1,9 @@
-# A behaviour (docs/dev/behaviors.md in message-board): no process, just SKILL.md, whose body the
-# node adds to the wake prompt of each agent it's switched on for.
+# A behaviour: no process, just SKILL.md, whose body the node adds to its agents' wake prompts.
 
 [extension]
 id = "karpathy"
 name = "Karpathy rules"
-version = "0.3.0"
+version = "0.3.1"
 publisher = "jamescalam"
 summary = "Read and ask who knows, push back, stop on surprises, small diffs, only your part, checked steps, evidence, own your handoffs."
 

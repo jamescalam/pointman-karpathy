@@ -1,6 +1,6 @@
 ---
 name: karpathy
-description: How to work on the Message Board, after Andrej Karpathy's notes on where coding agents go wrong (credits in README.md). Applies to every task.
+description: How to work on Pointman, after Andrej Karpathy's notes on where coding agents go wrong (credits in README.md). Applies to every task.
 ---
 
 # How to work
