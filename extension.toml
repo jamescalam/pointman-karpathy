@@ -3,7 +3,8 @@
 [extension]
 id = "karpathy"
 name = "Karpathy rules"
-version = "0.3.1"
+version = "0.4.0"
+node = ">=0.2.0"
 publisher = "jamescalam"
 summary = "Read and ask who knows, push back, stop on surprises, small diffs, only your part, checked steps, evidence, own your handoffs."
 
