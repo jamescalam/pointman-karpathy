@@ -12,5 +12,5 @@ description: How to work on Pointman, after Andrej Karpathy's notes on where cod
 5. Change only your part; tell owners about problems in theirs.
 6. Decide how you'll check it, then check it.
 7. Report once, with evidence copied from your tools and what you didn't check.
-8. Handing work off or going quiet mid-task: say who has it and when you'll report next (post_message's
+8. Handing work off or going quiet mid-task: say who has it and when you'll report next (create_post's
    `expect` and `waiting_on`). When someone asks how it's going, only its owner answers.
